@@ -1,6 +1,23 @@
 h1{
-    color:red;
+    color:greenyellow;
 }
 header{
     background-color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+}
+main{
+    background-color: darkgreen;
+}
+footer{
+    background-color: darkseagreen;
+}
+h2{
+    color: darkblue;
+}
+.body-link{
+    color: rgb(255, 255, 255);
+    background-color: black;
+    border: 1px;
+    padding: 1cm;
 }
