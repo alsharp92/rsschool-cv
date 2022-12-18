@@ -1,0 +1,79 @@
+.body
+{
+    background-color: rgb(131, 186, 202);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+    max-width: 1440px;
+    margin: auto;
+    padding-top: 1cm;
+    font-size: 20pt;
+}
+
+h1{
+    color:black;
+}
+header{
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+    max-width: 1440px;
+    margin: auto;
+
+    }
+.AboutMe{
+    max-width: 20cm;
+    margin: 5px;
+    padding-right: 5cm;
+    float:right
+}
+
+.NavWord{
+    color: black;
+}
+
+.nav{
+    margin: 5px;
+    padding-left: 20cm;
+    font-size: 20pt;
+    
+}
+
+main{
+       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 100;
+    max-width: 1440px;
+    margin: auto;
+}
+.Contakts{
+    margin: 5px;
+    padding-left: 20cm;
+}
+
+.Code{
+    margin: 5px;
+    padding-left: 20cm;
+    
+       
+}
+
+.footer{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    max-width: 1440px;
+    margin: auto;
+    }
+
+    .Year{
+        padding-left: 17cm;
+    }
+
+h2{
+    color: darkblue;
+}
+.body-link{
+    list-style-type: none;
+    display: inline;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    border: 1px;
+    padding: 0.5cm;
+}
