@@ -33,7 +33,7 @@ header{
 
 .nav{
     margin: 5px;
-    padding-left: 18cm;
+    padding-left: 20cm;
     font-size: 20pt;
     
 }
@@ -46,20 +46,33 @@ main{
 }
 .Contakts{
     margin: 5px;
-    padding-top: 0px;
+    padding-left: 20cm;
 }
-footer{
+
+.Code{
+    margin: 5px;
+    padding-left: 20cm;
+    
+       
+}
+
+.footer{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-weight: 100;
     max-width: 1440px;
     margin: auto;
-    
-    
-}
+    }
+
+    .Year{
+        padding-left: 17cm;
+    }
+
 h2{
     color: darkblue;
 }
 .body-link{
+    list-style-type: none;
+    display: inline;
+    text-decoration: none;
     color: rgb(255, 255, 255);
     border: 1px;
     padding: 0.5cm;
