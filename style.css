@@ -1,23 +1,67 @@
-h1{
-    color:greenyellow;
-}
-header{
-    background-color: blue;
+.body{
+    background-color: rgb(131, 186, 202);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: 900;
+    max-width: 1440px;
+    margin: auto;
+    padding-top: 1cm;
+    font-size: 20pt;
 }
+
+h1{
+    color:black;
+}
+header{
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+    max-width: 1440px;
+    margin: auto;
+
+    }
+.AboutMe{
+    max-width: 20cm;
+    margin: 5px;
+    padding-right: 5cm;
+    float:right
+}
+
+.NavWord{
+    color: black;
+}
+
+.nav{
+    margin: 5px;
+    padding-left: 18cm;
+    font-size: 20pt;
+    
+}
+
 main{
-    background-color: darkgreen;
+       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 100;
+    max-width: 1440px;
+    margin: auto;
+}
+.Contakts{
+    margin: 5px;
+    padding-left: cm;
+    padding-top: 0px;
 }
 footer{
-    background-color: darkseagreen;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 100;
+    max-width: 1440px;
+    margin: auto;
+    
+    
 }
 h2{
     color: darkblue;
 }
 .body-link{
     color: rgb(255, 255, 255);
-    background-color: black;
+    background-color: bdarkseagreen;
     border: 1px;
-    padding: 1cm;
+    padding: 0.5cm;
 }
